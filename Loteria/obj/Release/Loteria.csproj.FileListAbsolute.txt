@@ -1,0 +1,6 @@
+C:\Users\Mario A\documents\visual studio 2013\Projects\Loteria\Loteria\bin\Loteria.dll.config
+C:\Users\Mario A\documents\visual studio 2013\Projects\Loteria\Loteria\bin\Loteria.dll
+C:\Users\Mario A\documents\visual studio 2013\Projects\Loteria\Loteria\bin\Loteria.pdb
+C:\Users\Mario A\documents\visual studio 2013\Projects\Loteria\Loteria\obj\Release\Loteria.csprojResolveAssemblyReference.cache
+C:\Users\Mario A\documents\visual studio 2013\Projects\Loteria\Loteria\obj\Release\Loteria.dll
+C:\Users\Mario A\documents\visual studio 2013\Projects\Loteria\Loteria\obj\Release\Loteria.pdb
